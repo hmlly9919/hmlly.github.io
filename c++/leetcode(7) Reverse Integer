@@ -6,7 +6,6 @@ public:
         long long t = x;
 	    if (t < 0)
 	    {
-		    cout << "-";
 		    t = -t;
 		    flag = 1;
 	    }

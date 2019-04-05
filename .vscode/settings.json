@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "functional": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "leetcode(7) reverse integer": "cpp"
     }
 }
